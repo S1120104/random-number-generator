@@ -1,0 +1,6 @@
+{
+  "name": "Random Number Generator",
+  "description": "An elegant random number generator with customizable ranges, sequence options, statistics, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
